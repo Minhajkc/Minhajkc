@@ -15,7 +15,7 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 &nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammedminhaj.kc) 
 &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaj.kc)
 &nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/7034936080)
-&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-25D366?logo=Telegram&logoColor=white)](https://telegram.me/Minhajkc)
+&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-25D366?logo=Telegram&logoColor=blue)](https://telegram.me/Minhajkc)
 
 
 ## Languages I Know
