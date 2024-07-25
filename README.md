@@ -21,7 +21,6 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ## Languages I Know
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +33,16 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![Redux](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
+![MERN Stack](https://img.shields.io/badge/mern%20stack-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![UI/UX Design](https://img.shields.io/badge/ui%2Fux%20design-black?style=flat-square&logo=adobe&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <div style="display: flex;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAyaDIyM2piaG9mNWJ5Y2prMWtqb2ExNzNwMmZ6YmNlZDh6dWZxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="width: 70%;">
+  <!-- Technology Image -->
+  <img src="https://via.placeholder.com/350x150?text=Technology" alt="Technology Placeholder" style="width: 50%;">
+  
+  <!-- Design Image -->
+  <img src="https://via.placeholder.com/350x150?text=Design" alt="Design Placeholder" style="width: 50%;">
 </div>
+>
+
