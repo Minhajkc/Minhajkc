@@ -17,24 +17,37 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 &nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/7034936080)
 &nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://telegram.me/Minhajkc)
 
-
-
-## Languages I Know
+## Languages
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Chart.js](https://img.shields.io/badge/chart.js-black?style=flat-square&logo=chart.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-black?style=flat-square&logo=express&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-black?style=flat-square&logo=jquery&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![React](https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+## Frameworks & Libraries
+![React.js](https://img.shields.io/badge/react%20js-black?style=flat-square&logo=react&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/node%20js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
-![UI/UX Design](https://img.shields.io/badge/ui%2Fux%20design-black?style=flat-square&logo=adobe&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Ant Design](https://img.shields.io/badge/ant%20design-black?style=flat-square&logo=ant-design&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Handlebars](https://img.shields.io/badge/handlebars-black?style=flat-square&logo=handlebars.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Chart.js](https://img.shields.io/badge/chart%20js-black?style=flat-square&logo=chart.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![EJS](https://img.shields.io/badge/ejs-black?style=flat-square&logo=ejs&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+## Tools & Services
+![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Swagger](https://img.shields.io/badge/swagger-black?style=flat-square&logo=swagger&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![NPM](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Axios](https://img.shields.io/badge/axios-black?style=flat-square&logo=axios&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Nodemailer](https://img.shields.io/badge/nodemailer-black?style=flat-square&logo=nodemailer&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
