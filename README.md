@@ -51,6 +51,11 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minhajkc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 
 
