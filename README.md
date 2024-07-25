@@ -6,7 +6,9 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 - 💻 **Web Development:** Enthusiastic about building cutting-edge websites and applications, from sleek user interfaces to robust back-end systems.
 - 🎨 **UI/UX Design:** Focused on creating engaging and intuitive user experiences, combining creativity with technical skills to design beautiful and functional interfaces.
 - 🚀 **Continuous Learning:** Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
+- 🎓 **BCA Graduate:** I hold a Bachelor of Computer Applications degree, which has provided me with a strong foundation in computer science and web development.
 - 🤝 **Open for Collaboration:** Looking forward to teaming up on exciting projects that challenge and inspire.
+- 
 
 
 ##  Get In Touch
