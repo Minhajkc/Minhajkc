@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=7D2DEA&random=false&width=435&lines=MERN+Stack+Developer+;UI+UX+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;UI+UX+Designer)](https://git.io/typing-svg)
