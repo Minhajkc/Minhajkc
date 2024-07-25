@@ -8,7 +8,6 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 - 🚀 **Continuous Learning:** Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
 - 🎓 **BCA Graduate:** I hold a Bachelor of Computer Applications degree, which has provided me with a strong foundation in computer science and web development.
 - 🤝 **Open for Collaboration:** Looking forward to teaming up on exciting projects that challenge and inspire.
-- 
 
 
 ##  Get In Touch
