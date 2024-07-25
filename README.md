@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1000&pause=1000&width=435&height=33&lines=hello%2C+I'm+Minhaj+Kc)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&vCenter=true&width=435&lines=MERN+Stack+Developer;UI+UX+Designer)](https://git.io/typing-svg)
