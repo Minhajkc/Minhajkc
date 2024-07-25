@@ -36,12 +36,5 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![UI/UX Design](https://img.shields.io/badge/ui%2Fux%20design-black?style=flat-square&logo=adobe&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<div style="display: flex;">
-  <!-- Technology Image -->
-     <img src="https://picsum.photos/350/150?random=1" alt="Technology" />
-  
-  <!-- Design Image -->
-    <img src="https://picsum.photos/350/150?random=2" alt="Design" />
-</div>
->
+
 
