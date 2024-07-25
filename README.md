@@ -7,7 +7,6 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 - 🎨 **UI/UX Design:** Focused on creating engaging and intuitive user experiences, combining creativity with technical skills to design beautiful and functional interfaces.
 - 🚀 **Continuous Learning:** Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
 - 🤝 **Open for Collaboration:** Looking forward to teaming up on exciting projects that challenge and inspire.
-- 📩 **Get in Touch:** Connect with me through my social media profiles linked in the contact section.
 
 
 ##  Get In Touch
@@ -16,6 +15,7 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 &nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammedminhaj.kc) 
 &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaj.kc)
 &nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/7034936080)
+&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-25D366?logo=whatsapp&logoColor=white)](https://telegram.me/Minhajkc)
 
 
 ## Languages I Know
