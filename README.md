@@ -46,6 +46,14 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Axios](https://img.shields.io/badge/axios-black?style=flat-square&logo=axios&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Nodemailer](https://img.shields.io/badge/nodemailer-black?style=flat-square&logo=nodemailer&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![NPM](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
