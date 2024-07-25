@@ -33,16 +33,15 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![Redux](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
-![MERN Stack](https://img.shields.io/badge/mern%20stack-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![UI/UX Design](https://img.shields.io/badge/ui%2Fux%20design-black?style=flat-square&logo=adobe&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <div style="display: flex;">
   <!-- Technology Image -->
-  <img src="https://via.placeholder.com/350x150?text=Technology" alt="Technology Placeholder" style="width: 50%;">
+     <img src="https://picsum.photos/350/150?random=1" alt="Technology" />
   
   <!-- Design Image -->
-  <img src="https://via.placeholder.com/350x150?text=Design" alt="Design Placeholder" style="width: 50%;">
+    <img src="https://picsum.photos/350/150?random=2" alt="Design" />
 </div>
 >
 
