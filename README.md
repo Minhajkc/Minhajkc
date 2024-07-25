@@ -1,15 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;UI+UX+Designer)](https://git.io/typing-svg)
-# Explore My Corner of the Web ✨ 
-Hi there, I'm Subhin TM, and I'm thrilled to have you here! Whether you're a potential client, a fellow developer, or just someone interested in the world of web development, welcome to my corner of the internet.
+# Welcome to My Digital Space ✨ 
+Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design with you! Whether you're a potential collaborator, a fellow developer, or just curious about the digital realm, I'm glad you're here.
 
 ## About Me 
-> 🔴 **Web Development :**  *Programming, front-end development, back-end development, and web technologies.*  
-> 🔴 **Learning :**  *Currently diving deep into programming and exploring new technologies.*  
-> 🔴 **Looking to Collaborate :** *Interested in collaborating on web development projects.*  
-> 🔴 **Contact :**  *Reach me through my social media profiles listed in the contact section.*
+💻 Web Development: Enthusiastic about building cutting-edge websites and applications, from sleek user interfaces to robust back-end systems.
+🎨 UI/UX Design: Focused on creating engaging and intuitive user experiences, combining creativity with technical skills to design beautiful and functional interfaces.
+🚀 Continuous Learning: Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
+🤝 Open for Collaboration: Looking forward to teaming up on exciting projects that challenge and inspire.
+📩 Get in Touch: Connect with me through my social media profiles linked in the contact section.
+
+
 ##  Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhin-tm/) &nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhintm) 
-&nbsp;&nbsp;<a href="mailto:subhintm2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaj-kc-a7b118308) &nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@minhaj_kc) 
+&nbsp;&nbsp;<a href="mailto:minhajvvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 
 ## Languages I Know
