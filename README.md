@@ -4,7 +4,7 @@
 # Welcome to My Digital Space  
 Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design with you! Whether you're a potential collaborator, a fellow developer, or just curious about the digital realm, I'm glad you're here.
 
-## About Me 
+## About Me
 - 💻 **Web Development:** Enthusiastic about building cutting-edge websites and applications, from sleek user interfaces to robust back-end systems.
 - 🎨 **UI/UX Design:** Focused on creating engaging and intuitive user experiences, combining creativity with technical skills to design beautiful and functional interfaces.
 - 🚀 **Continuous Learning:** Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
