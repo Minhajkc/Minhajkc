@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1000&pause=1000&width=435&height=33&lines=hello+world%2C+I'm+Minhaj+Kc)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&vCenter=true&width=435&lines=MERN+Stack+Developer;UI+UX+Designer)](https://git.io/typing-svg)
 # Welcome to My Digital Space  
-Hi there,I'm Minhaj KC,and I'm excited to share my world of web and design with you Whether you're a potential collaborator,a fellow developer, or just curious about the digital realm, I'm glad you're here.
+Hi there, I'm Minhaj KC,and I'm excited to share my world of web and design with you Whether you're a potential collaborator,a fellow developer, or just curious about the digital realm, I'm glad you're here.
 
 ## About Me
 - 💻 **Web Development:** Enthusiastic about building cutting-edge websites and applications, from sleek user interfaces to robust back-end systems.
