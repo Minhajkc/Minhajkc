@@ -27,6 +27,7 @@ Hi there, I'm Minhaj KC, and I'm excited to share my world of web and design wit
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ## Frameworks & Libraries
 ![React.js](https://img.shields.io/badge/react%20js-black?style=flat-square&logo=react&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/next%20js-black?style=flat-square&logo=next.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/node%20js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
