@@ -11,7 +11,6 @@ Hi there, I'm Minhaj KC,and I'm excited to share my world of web and design with
 - 🎓 **BCA Graduate:** I hold a Bachelor of Computer Applications degree, which has provided me with a strong foundation in computer science and web development.
 - 🤝 **Open for Collaboration:** Looking forward to teaming up on exciting projects that challenge and inspire.
 
-
 ##  Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaj-kc-a7b118308) &nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@minhaj_kc) 
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:minhajvvo@gmail.com)
