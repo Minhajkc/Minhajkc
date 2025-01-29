@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&vCenter=true&width=435&lines=MERN+Stack+Developer;UI+UX+Designer)](https://git.io/typing-svg)
 
 # Welcome to My Digital WORLD
-
 Hi there, I'm Minhaj KC,and I'm excited to share my world of web and design with you Whether you're a potential collaborator,a fellow developer,or just curious about the digital realm,I'm glad you're here.
 
 # About Me
